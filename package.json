@@ -1,0 +1,21 @@
+{
+  "name": "inventory-aggregator",
+  "version": "1.0.0",
+  "description": "Collects stats on the inventories of a steam group's members.",
+  "main": "inventories.js",
+  "scripts": {
+    "apps": "node app-counts.js",
+    "users": "node user-counts.js"
+  },
+  "author": "Kryzoid",
+  "license": "Unlicense",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "html-entities": "^1.2.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "xml-to-json-promise": "0.0.3",
+    "xml2js": "^0.4.18"
+  }
+}
