@@ -4,6 +4,7 @@
   "description": "Collects stats on the inventories of a steam group's members.",
   "main": "inventories.js",
   "scripts": {
+    "start": "node inventories.js",
     "apps": "node app-counts.js",
     "users": "node user-counts.js"
   },
