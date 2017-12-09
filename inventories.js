@@ -10,6 +10,7 @@ const decode   = (new require('html-entities').AllHtmlEntities).decode
 const baseUrl  = 'https://steamcommunity.com';
 
 let requestDelay = 0;
+let count = 0;
 
 /**
  * @summary Gets a Steam group's list of members.
@@ -66,7 +67,7 @@ const getInventory = (userId) => {
       inventory.name = decode($('a', '.profile_small_header_name').html());
       // Save inventory individually case something goes wrong
       fs.writeFileSync(`inventories/${userId}.json`, JSON.stringify(inventory, null, 2));
-      console.log(`${new Date().toLocaleTimeString()} - ${userId}`);
+      console.log(`${new Date().toLocaleTimeString()} - ${++count}`);
       return inventory;
     });
 }
