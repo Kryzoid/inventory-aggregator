@@ -43,7 +43,7 @@ const getInventory = (userId) => {
     private: false
   };
 
-  requestDelay += 5000;
+  requestDelay += 10000;
 
   return bluebird.delay(requestDelay)
     .then(() => request(inventory.url))
