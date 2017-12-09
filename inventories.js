@@ -73,6 +73,7 @@ const getInventory = (userId) => {
 }
 
 const promises = getMembers(groupURL)
+  .filter((userId) => !fs.existsSync(`inventories/${userId}.json`))
   .map((userId) => getInventory(userId));
 
 Promise.all(promises).then((inventories) => {
