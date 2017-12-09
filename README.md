@@ -14,5 +14,4 @@ You'll need [git](https://git-scm.com) and [node](https://nodejs.org).
    * `npm run apps` aggregates **apps** based on tab ownership and saves to the [data](data/) folder.
 
 ## Sample data
-The config, data, and inventories from the [InventoryService](https://steamcommunity.com/groups/InventoryService) group are included in the repository.  
-This was collected on `8/31/2017 5:00 PM EST`.
+The config, data, and inventories from the [InventoryService](https://steamcommunity.com/groups/InventoryService) group are included in the repository.
