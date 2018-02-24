@@ -43,6 +43,10 @@ const getInventory = (userId) => {
     private: false
   };
 
+  if (fs.existsSync(`inventories/${userId}.json`)) {
+    return Promise.resolve({});
+  }
+
   requestDelay += 10000;
 
   return bluebird.delay(requestDelay)
