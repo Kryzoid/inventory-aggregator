@@ -1,6 +1,16 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198021315269/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 552,
+    "570": 5,
+    "730": 13,
+    "753": 450,
+    "99900": 6,
+    "238460": 49,
+    "274940": 94,
+    "304930": 14,
+    "578080": 8
+  },
+  "private": false,
+  "name": "illinoize"
 }

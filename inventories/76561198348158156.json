@@ -1,6 +1,14 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198348158156/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 58,
+    "753": 39,
+    "290340": 25,
+    "304930": 1,
+    "381210": 13,
+    "559650": 3,
+    "578080": 33
+  },
+  "private": false,
+  "name": "SONG"
 }

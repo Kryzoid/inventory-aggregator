@@ -1,6 +1,19 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198261194523/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 64,
+    "730": 118,
+    "753": 65,
+    "232090": 18,
+    "238460": 10,
+    "270450": 3,
+    "274940": 6,
+    "394690": 201,
+    "431240": 5,
+    "433850": 34,
+    "489940": 10,
+    "578080": 48
+  },
+  "private": false,
+  "name": "FluffMeister|Twitch"
 }

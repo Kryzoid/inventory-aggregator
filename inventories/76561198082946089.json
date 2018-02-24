@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198082946089/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "99900": -1
+  },
+  "private": false,
   "name": "Herbie"
 }

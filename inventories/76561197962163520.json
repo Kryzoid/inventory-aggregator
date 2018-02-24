@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197962163520/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "603750": -1
+  },
+  "private": false,
   "name": "[DumB]PT"
 }

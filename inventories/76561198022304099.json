@@ -1,6 +1,17 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198022304099/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 367,
+    "570": 20,
+    "620": 42,
+    "730": 64,
+    "753": 319,
+    "99900": 12,
+    "232090": 8,
+    "295110": 2,
+    "433850": 7,
+    "447820": 19
+  },
+  "private": false,
+  "name": "Allower"
 }

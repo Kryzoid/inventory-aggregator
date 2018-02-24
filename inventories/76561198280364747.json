@@ -1,6 +1,16 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198280364747/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 64,
+    "570": 2,
+    "730": 12,
+    "753": 203,
+    "238460": 7,
+    "304930": 88,
+    "338170": 1,
+    "366440": 1,
+    "431240": 1
+  },
+  "private": false,
   "name": "savva1337.xyz"
 }
