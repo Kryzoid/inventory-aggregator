@@ -1,6 +1,12 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198213506173/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": "Izzy Bear"
+  "tabCounts": {
+    "440": 279,
+    "570": 6,
+    "753": 142,
+    "99900": 261,
+    "304930": 13
+  },
+  "private": false,
+  "name": "Jason Umbreon(bday 2 days)"
 }

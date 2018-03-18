@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198075428239/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "322330": -1
+  },
+  "private": false,
   "name": "Rodrigo Madruga"
 }

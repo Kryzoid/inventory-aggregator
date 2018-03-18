@@ -1,6 +1,17 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198091159307/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": "number 15"
+  "tabCounts": {
+    "440": 370,
+    "570": 171,
+    "730": 120,
+    "753": 93,
+    "99900": 20,
+    "244930": 14,
+    "304930": 5,
+    "322330": 3,
+    "431240": 2,
+    "578080": 6
+  },
+  "private": false,
+  "name": "Ya Boi Jorge"
 }

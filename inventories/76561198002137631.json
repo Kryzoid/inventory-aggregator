@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198002137631/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "238960": -1
+  },
+  "private": false,
   "name": "Tomasety III"
 }

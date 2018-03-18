@@ -1,6 +1,9 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197961149045/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "238960": -1,
+    "295110": -1
+  },
+  "private": false,
   "name": "Reaper"
 }

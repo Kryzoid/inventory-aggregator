@@ -1,6 +1,12 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198149104160/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "244930": -1,
+    "295110": -1,
+    "308080": -1,
+    "321360": -1,
+    "433850": -1
+  },
+  "private": false,
   "name": "Smookiekins | AWAY"
 }

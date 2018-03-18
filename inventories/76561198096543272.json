@@ -1,6 +1,18 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198096543272/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 45,
+    "570": 204,
+    "620": 1,
+    "730": 69,
+    "753": 305,
+    "99900": 9,
+    "218620": 1,
+    "238460": 13,
+    "304930": 2,
+    "322330": 3,
+    "578080": 7
+  },
+  "private": false,
   "name": "ANDROID"
 }

@@ -1,6 +1,9 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198132708630/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "570": 491,
+    "753": 2
+  },
+  "private": false,
+  "name": "lactum"
 }
