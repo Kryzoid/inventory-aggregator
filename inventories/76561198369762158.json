@@ -1,6 +1,10 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198369762158/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": "ｄｅｓｐａｉｒ"
+  "tabCounts": {
+    "730": 51,
+    "753": 156,
+    "304930": 10
+  },
+  "private": false,
+  "name": "\\sum_{i=1}^N (x_i - \\overline"
 }

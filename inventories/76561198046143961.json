@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198046143961/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "753": -1
+  },
+  "private": false,
   "name": "PANLLA"
 }

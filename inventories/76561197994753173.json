@@ -1,18 +1,6 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197994753173/inventory",
-  "tabCounts": {
-    "440": 346,
-    "570": 387,
-    "620": 4,
-    "730": 3,
-    "753": 581,
-    "99900": 31,
-    "218620": 13,
-    "238460": 33,
-    "304930": 1,
-    "433850": 10,
-    "578080": 24
-  },
-  "private": false,
+  "tabCounts": {},
+  "private": true,
   "name": "Alixey"
 }

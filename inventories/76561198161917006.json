@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198161917006/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "620": -1
+  },
+  "private": false,
   "name": "Jadin C-137"
 }

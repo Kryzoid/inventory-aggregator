@@ -1,6 +1,16 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198098267847/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 79,
+    "730": 70,
+    "753": 563,
+    "99900": 44,
+    "218620": 7,
+    "244930": 13,
+    "252490": 2,
+    "295110": 1,
+    "304930": 7
+  },
+  "private": false,
+  "name": "poweer"
 }

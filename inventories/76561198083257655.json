@@ -1,6 +1,11 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198083257655/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 3,
+    "570": 6,
+    "730": 5,
+    "753": 2
+  },
+  "private": false,
   "name": "PT'Fun BOT"
 }

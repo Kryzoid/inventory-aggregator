@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198393825936/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "620": -1
+  },
+  "private": false,
   "name": "IHJC"
 }
