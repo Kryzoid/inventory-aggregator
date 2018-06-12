@@ -1,6 +1,18 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198162290747/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 12,
+    "570": 5,
+    "753": 10,
+    "232090": 2,
+    "238460": 12,
+    "252490": 30,
+    "304930": 13,
+    "322330": 32,
+    "375950": 1,
+    "578080": 31,
+    "614910": 7
+  },
+  "private": false,
   "name": "Tawny Lawns &#x1F497;"
 }

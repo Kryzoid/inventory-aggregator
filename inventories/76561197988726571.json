@@ -1,6 +1,12 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197988726571/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 28,
+    "730": 157,
+    "753": 159,
+    "304930": 3,
+    "578080": 31
+  },
+  "private": false,
   "name": "zop"
 }

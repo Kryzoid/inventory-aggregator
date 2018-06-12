@@ -1,6 +1,14 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198216658113/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 262,
+    "730": 1,
+    "753": 86,
+    "99900": 26,
+    "238460": 107,
+    "394690": 148,
+    "578080": 18
+  },
+  "private": false,
+  "name": "Lord Potato Senpai"
 }

@@ -1,6 +1,13 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198073355162/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "552190": -1,
+    "674020": -1,
+    "685140": -1,
+    "685210": -1,
+    "839030": -1,
+    "840790": -1
+  },
+  "private": false,
   "name": "DKA"
 }

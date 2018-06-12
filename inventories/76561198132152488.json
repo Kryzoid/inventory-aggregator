@@ -1,19 +1,6 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198132152488/inventory",
-  "tabCounts": {
-    "440": 330,
-    "570": 1,
-    "620": 1,
-    "730": 12,
-    "753": 54,
-    "99900": 2,
-    "238460": 7,
-    "244930": 14,
-    "270450": 9,
-    "304930": 12,
-    "431240": 4,
-    "578080": 16
-  },
-  "private": false,
-  "name": "Kemicl"
+  "tabCounts": {},
+  "private": true,
+  "name": ""
 }
