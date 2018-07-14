@@ -1,6 +1,10 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198203182875/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "730": 9,
+    "753": 19,
+    "433850": 3
+  },
+  "private": false,
+  "name": "IgNar"
 }

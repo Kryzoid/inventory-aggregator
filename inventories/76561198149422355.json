@@ -1,6 +1,12 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198149422355/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 16,
+    "570": 462,
+    "730": 238,
+    "753": 260,
+    "578080": 3
+  },
+  "private": false,
+  "name": "Asher Kean"
 }

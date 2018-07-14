@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198059980073/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "753": 5
+  },
+  "private": false,
   "name": "kmeleon22"
 }
