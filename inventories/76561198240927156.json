@@ -1,6 +1,11 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198240927156/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "730": 122,
+    "753": 58,
+    "232090": 13,
+    "590790": 263
+  },
+  "private": false,
+  "name": "SOKO Eule"
 }

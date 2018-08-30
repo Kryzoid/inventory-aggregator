@@ -1,6 +1,17 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197994632741/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 978,
+    "570": 1,
+    "620": 43,
+    "730": 3,
+    "753": 483,
+    "72850": 1,
+    "230410": 2,
+    "238960": 8,
+    "304930": 1,
+    "578080": 8
+  },
+  "private": false,
   "name": "Bearton Jay"
 }

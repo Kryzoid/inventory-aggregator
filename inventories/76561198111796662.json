@@ -1,6 +1,16 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198111796662/inventory",
-  "tabCounts": {},
-  "private": true,
-  "name": ""
+  "tabCounts": {
+    "440": 36,
+    "570": 4,
+    "730": 162,
+    "753": 227,
+    "304930": 18,
+    "375950": 1,
+    "433850": 2,
+    "578080": 125,
+    "840140": 3
+  },
+  "private": false,
+  "name": "NjeKst"
 }

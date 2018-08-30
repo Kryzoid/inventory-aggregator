@@ -1,6 +1,13 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197963191906/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "282800": -1,
+    "725430": -1,
+    "777250": -1,
+    "805110": -1,
+    "870000": -1,
+    "885570": -1
+  },
+  "private": false,
   "name": "KILLDY"
 }

@@ -1,6 +1,12 @@
 {
   "url": "https://steamcommunity.com/profiles/76561198047181709/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "440": 10,
+    "730": 3,
+    "753": 111,
+    "99900": 44,
+    "238460": 33
+  },
+  "private": false,
   "name": "BlackQuasar"
 }

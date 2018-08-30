@@ -1,6 +1,8 @@
 {
   "url": "https://steamcommunity.com/profiles/76561197976469696/inventory",
-  "tabCounts": {},
-  "private": true,
+  "tabCounts": {
+    "783140": -1
+  },
+  "private": false,
   "name": ".oscilloscopa"
 }
